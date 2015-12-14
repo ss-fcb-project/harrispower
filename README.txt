@@ -3,8 +3,8 @@ CONTENTS OF THIS FILE
 ---------------------
 
  * About Drupal
- * Configuration and features
- * Installation profiles
+ * Configuration and Features
+ * Installation Profiles
  * Appearance
  * Developing for Drupal
 
